@@ -1,0 +1,7 @@
+D:\Visual Studio\Song Checking\Song Checking\bin\Debug\Song Checking.exe.config
+D:\Visual Studio\Song Checking\Song Checking\bin\Debug\Song Checking.exe
+D:\Visual Studio\Song Checking\Song Checking\bin\Debug\Song Checking.pdb
+D:\Visual Studio\Song Checking\Song Checking\obj\Debug\Song Checking.csprojAssemblyReference.cache
+D:\Visual Studio\Song Checking\Song Checking\obj\Debug\Song Checking.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Song Checking\Song Checking\obj\Debug\Song Checking.exe
+D:\Visual Studio\Song Checking\Song Checking\obj\Debug\Song Checking.pdb
